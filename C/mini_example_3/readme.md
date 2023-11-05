@@ -18,12 +18,10 @@ c 4 3 2
 
 
 örnek : girilen sayı 3 olsun.
-   çıktı: a b 3
-          b 3 2
-          3 2 1
-a b 3
-b 3 2
-3 2 1
+ a b 3
+ b 3 2
+ 3 2 1
+
 
 
 şeklinde çıktı vermesi üzerine yazılmıştır. C dili kullanılmıştır.
