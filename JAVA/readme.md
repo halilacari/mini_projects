@@ -1,1 +1,1 @@
-This folder contains java related examples.
+This folder contains JAVA related examples.
