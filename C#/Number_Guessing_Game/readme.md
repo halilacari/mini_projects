@@ -1,0 +1,1 @@
+This example program generate a random number. The user tries to guess the random number we generate.
