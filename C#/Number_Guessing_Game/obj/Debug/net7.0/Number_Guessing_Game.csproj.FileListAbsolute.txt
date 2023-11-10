@@ -1,0 +1,14 @@
+D:\Github\halilacari\mini_projects\C#\Number_Guessing_Game\bin\Debug\net7.0\Number_Guessing_Game.exe
+D:\Github\halilacari\mini_projects\C#\Number_Guessing_Game\bin\Debug\net7.0\Number_Guessing_Game.deps.json
+D:\Github\halilacari\mini_projects\C#\Number_Guessing_Game\bin\Debug\net7.0\Number_Guessing_Game.runtimeconfig.json
+D:\Github\halilacari\mini_projects\C#\Number_Guessing_Game\bin\Debug\net7.0\Number_Guessing_Game.dll
+D:\Github\halilacari\mini_projects\C#\Number_Guessing_Game\bin\Debug\net7.0\Number_Guessing_Game.pdb
+D:\Github\halilacari\mini_projects\C#\Number_Guessing_Game\obj\Debug\net7.0\Number_Guessing_Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\halilacari\mini_projects\C#\Number_Guessing_Game\obj\Debug\net7.0\Number_Guessing_Game.AssemblyInfoInputs.cache
+D:\Github\halilacari\mini_projects\C#\Number_Guessing_Game\obj\Debug\net7.0\Number_Guessing_Game.AssemblyInfo.cs
+D:\Github\halilacari\mini_projects\C#\Number_Guessing_Game\obj\Debug\net7.0\Number_Guessing_Game.csproj.CoreCompileInputs.cache
+D:\Github\halilacari\mini_projects\C#\Number_Guessing_Game\obj\Debug\net7.0\Number_Guessing_Game.dll
+D:\Github\halilacari\mini_projects\C#\Number_Guessing_Game\obj\Debug\net7.0\refint\Number_Guessing_Game.dll
+D:\Github\halilacari\mini_projects\C#\Number_Guessing_Game\obj\Debug\net7.0\Number_Guessing_Game.pdb
+D:\Github\halilacari\mini_projects\C#\Number_Guessing_Game\obj\Debug\net7.0\Number_Guessing_Game.genruntimeconfig.cache
+D:\Github\halilacari\mini_projects\C#\Number_Guessing_Game\obj\Debug\net7.0\ref\Number_Guessing_Game.dll
