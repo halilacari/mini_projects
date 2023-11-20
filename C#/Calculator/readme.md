@@ -5,10 +5,16 @@ Notes:
 • You will be asked what action you want to perform in the form of a menu at the top of the screen.
 
 o Press 1 to add
+
 o Press 2 to subtract
+
 o Press 3 to split
+
 o Press 4 to multiply
+
 o Press 0 to exit
+
+
 
 • If it hits zero, the application should close. The application should always remain open unless zero is pressed.
 
